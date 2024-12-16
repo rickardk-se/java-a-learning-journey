@@ -1,6 +1,6 @@
 package java_a_beginners_guide.ch01;
 
-public class BlockeDemo {
+public class BlockDemo {
     public static void main(String[] args) {
         double i, j, d;
         i = 5;
